@@ -1,6 +1,7 @@
 
 import '../css/componentes.css'
 
+
 export const saludar = (nombre) => {
   console.log('Creando etiqueta desde JS');
   const h1 = document.createElement('h1');
